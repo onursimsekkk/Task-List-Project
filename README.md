@@ -10,4 +10,4 @@ You can add new tasks or remove them. Tasks will stored at local storage then yo
 
 ###                                                 Project Image
 
-![Project](readme img/taskList.PNG)
+![Project](readme_img/taskList.PNG)
